@@ -19,7 +19,7 @@ security:
             access-token-validity-seconds: 1800
             authorized-grant-types: password,refresh_token
             client-id: clinica
-            client-secret: 12345
+            client-secret: $2a$10$NNMU0qi29IGF1100JAJpyezpz/slGXxhl6CPzOzf5Wo.ZW2ITjns.
             resource-ids: resources
             scope: read,write
 
